@@ -1,0 +1,753 @@
+﻿Cure Disease;Charred Skeever Hide
+Cure Disease;Chokeweed
+Cure Disease;Felsaad Tern Feathers
+Cure Disease;Hawk Feathers
+Cure Disease;Hunger Tongue
+Cure Disease;Juvenile Mudcrab
+Cure Disease;Mudcrab Chitin
+Cure Disease;Red Kelp Gas Bladder
+Cure Disease;Scrib Jelly
+Cure Disease;Spadefish
+Cure Disease;Vampire Dust
+Cure Disease;Withering Moon
+Cure Poison;Ambrosia
+Cure Poison;Bittergreen Petals
+Cure Poison;Hunger Tongue
+Cure Poison;Imp Gall
+Cure Poison;Redwort Flower
+Cure Poison;Roobrush
+Cure Poison;Scrib Jelly
+Damage Health;Chokeberry
+Damage Health;Coda Flower
+Damage Health;Corrupted Human Heart
+Damage Health;Crimson Nirnroot
+Damage Health;Deathbell
+Damage Health;Ectoplasm
+Damage Health;Emperor Parasol Moss
+Damage Health;Falmer Ear
+Damage Health;Fine-Cut Void Salts
+Damage Health;Fire Petal
+Damage Health;Gnarl Bark
+Damage Health;Harrada
+Damage Health;Human Flesh
+Damage Health;Human Heart
+Damage Health;Imp Gall
+Damage Health;Imp Stool
+Damage Health;Jarrin Root
+Damage Health;Mort Flesh
+Damage Health;Nightshade
+Damage Health;Nirnroot
+Damage Health;Poison Bloom
+Damage Health;Red Mountain Flower
+Damage Health;Redwort Flower
+Damage Health;River Betty
+Damage Health;Scalon Fin
+Damage Health;Simon Rodayne's Heart
+Damage Health;Skeever Tail
+Damage Health;Small Antlers
+Damage Health;Spiddal Stick
+Damage Health;Troll Fat
+Damage Health;Void Salts
+Damage Health;Wisp Stalk Caps
+Damage Magicka;Bittergreen Petals
+Damage Magicka;Butterfly Wing
+Damage Magicka;Chaurus Eggs
+Damage Magicka;Chokeweed
+Damage Magicka;Corrupted Human Heart
+Damage Magicka;Daedra Heart
+Damage Magicka;Eye of Sabre Cat
+Damage Magicka;Glow Dust
+Damage Magicka;Hagraven Feathers
+Damage Magicka;Hanging Moss
+Damage Magicka;Harrada
+Damage Magicka;Human Heart
+Damage Magicka;Jarrin Root
+Damage Magicka;Luna Moth Wing
+Damage Magicka;Mort Flesh
+Damage Magicka;Namira's Rot
+Damage Magicka;Nordic Barnacle
+Damage Magicka;Simon Rodayne's Heart
+Damage Magicka;Spiddal Stick
+Damage Magicka;Trama Root
+Damage Magicka Regen;Ancestor Moth Wing
+Damage Magicka Regen;Bear Claws
+Damage Magicka Regen;Blue Butterfly Wing
+Damage Magicka Regen;Blue Mountain Flower
+Damage Magicka Regen;Burnt Spriggan Wood
+Damage Magicka Regen;Chaurus Hunter Antennae
+Damage Magicka Regen;Chicken's Egg
+Damage Magicka Regen;Corrupted Human Heart
+Damage Magicka Regen;Daedroth Teeth
+Damage Magicka Regen;Glow Dust
+Damage Magicka Regen;Hanging Moss
+Damage Magicka Regen;Harrada
+Damage Magicka Regen;Hawk's Egg
+Damage Magicka Regen;Human Heart
+Damage Magicka Regen;Jarrin Root
+Damage Magicka Regen;Minotaur Horn
+Damage Magicka Regen;Mort Flesh
+Damage Magicka Regen;Nightshade
+Damage Magicka Regen;Pygmy Sunfish
+Damage Magicka Regen;Scalon Fin
+Damage Magicka Regen;Simon Rodayne's Heart
+Damage Magicka Regen;Spider Egg
+Damage Magicka Regen;Spriggan Sap
+Damage Stamina;Ancestor Moth Wing
+Damage Stamina;Ash Creep Cluster
+Damage Stamina;Berit's Ashes
+Damage Stamina;Blisterwort
+Damage Stamina;Blue Butterfly Wing
+Damage Stamina;Bog Beacon
+Damage Stamina;Bone Meal
+Damage Stamina;Canis Root
+Damage Stamina;Chaurus Hunter Antennae
+Damage Stamina;Comberry
+Damage Stamina;Crimson Nirnroot
+Damage Stamina;Cyrodilic Spadetail
+Damage Stamina;Giant's Toe
+Damage Stamina;Ironwood Fruit
+Damage Stamina;Jarrin Root
+Damage Stamina;Marshmerrow
+Damage Stamina;Nirnroot
+Damage Stamina;Rock Warbler Egg
+Damage Stamina;Spider Egg
+Damage Stamina Regen;Bungler's Bane
+Damage Stamina Regen;Creep Cluster
+Damage Stamina Regen;Daedra Heart
+Damage Stamina Regen;Frost Mirriam
+Damage Stamina Regen;Giant's Toe
+Damage Stamina Regen;Histcarp
+Damage Stamina Regen;Juniper Berries
+Damage Stamina Regen;Large Antlers
+Damage Stamina Regen;Saltrice
+Damage Stamina Regen;Silverside Perch
+Damage Stamina Regen;Skeever Tail
+Damage Stamina Regen;Wheat
+Damage Stamina Regen;Yellow Mountain Flower
+Fear;Blue Dartwing
+Fear;Bog Beacon
+Fear;Cyrodilic Spadetail
+Fear;Daedra Heart
+Fear;Elytra Ichor
+Fear;Gleamblossom
+Fear;Green Butterfly Wing
+Fear;Luminous Russula
+Fear;Namira's Rot
+Fear;Netch Jelly
+Fear;Poison Bloom
+Fear;Powdered Mammoth Tusk
+Fear;Rot Scale
+Fear;Sload Soap
+Fortify Alteration;Blind Watcher's Eye
+Fortify Alteration;Burnt Spriggan Wood
+Fortify Alteration;Grass Pod
+Fortify Alteration;Lyretail Anthias
+Fortify Alteration;River Betty
+Fortify Alteration;Screaming Maw
+Fortify Alteration;Sload Soap
+Fortify Alteration;Spriggan Sap
+Fortify Alteration;Wild Grass Pod
+Fortify Barter;Butterfly Wing
+Fortify Barter;Dragon's Tongue
+Fortify Barter;Hagraven Claw
+Fortify Barter;Imp Gall
+Fortify Barter;Tundra Cotton
+Fortify Block;Aster Bloom Core
+Fortify Block;Bleeding Crown
+Fortify Block;Boar Tusk
+Fortify Block;Briar Heart
+Fortify Block;Honeycomb
+Fortify Block;Pearl
+Fortify Block;Slaughterfish Scales
+Fortify Block;Tundra Cotton
+Fortify Carry Weight;Coda Flower
+Fortify Carry Weight;Creep Cluster
+Fortify Carry Weight;Giant's Toe
+Fortify Carry Weight;Hawk Beak
+Fortify Carry Weight;Juvenile Mudcrab
+Fortify Carry Weight;Kagouti Hide
+Fortify Carry Weight;Lyretail Anthias
+Fortify Carry Weight;Marshmerrow
+Fortify Carry Weight;Netch Jelly
+Fortify Carry Weight;Poison Bloom
+Fortify Carry Weight;River Betty
+Fortify Carry Weight;Scaly Pholiota
+Fortify Carry Weight;Steel-Blue Entoloma
+Fortify Carry Weight;Trama Root
+Fortify Carry Weight;Wisp Wrappings
+Fortify Carry Weight;Worm's Head Cap
+Fortify Conjuration;Ancestor Moth Wing
+Fortify Conjuration;Berit's Ashes
+Fortify Conjuration;Blue Butterfly Wing
+Fortify Conjuration;Blue Mountain Flower
+Fortify Conjuration;Bone Meal
+Fortify Conjuration;Chaurus Hunter Antennae
+Fortify Conjuration;Congealed Putrescence
+Fortify Conjuration;Frost Salts
+Fortify Conjuration;Hagraven Feathers
+Fortify Conjuration;Lavender
+Fortify Conjuration;Lyretail Anthias
+Fortify Conjuration;Sload Soap
+Fortify Destruction;Ash Creep Cluster
+Fortify Destruction;Beehive Husk
+Fortify Destruction;Comberry
+Fortify Destruction;Daedra Venin
+Fortify Destruction;Ectoplasm
+Fortify Destruction;Glow Dust
+Fortify Destruction;Glowing Mushroom
+Fortify Destruction;Nightshade
+Fortify Destruction;Steel-Blue Entoloma
+Fortify Destruction;Wisp Wrappings
+Fortify Enchanting;Ancestor Moth Wing
+Fortify Enchanting;Blue Butterfly Wing
+Fortify Enchanting;Chaurus Hunter Antennae
+Fortify Enchanting;Dreugh Wax
+Fortify Enchanting;Hagraven Claw
+Fortify Enchanting;Snowberries
+Fortify Enchanting;Spawn Ash
+Fortify Enchanting;Spriggan Sap
+Fortify Enchanting;Stoneflower Petals
+Fortify Health;Ambrosia
+Fortify Health;Bear Claws
+Fortify Health;Bloodgrass
+Fortify Health;Blue Mountain Flower
+Fortify Health;Boar Tusk
+Fortify Health;Fungus Stalk
+Fortify Health;Giant's Toe
+Fortify Health;Glowing Mushroom
+Fortify Health;Hanging Moss
+Fortify Health;Heart of Order
+Fortify Health;Hydnum Azure Giant Spore
+Fortify Health;Void Essence
+Fortify Health;Wheat
+Fortify Health;Yellow Mountain Flower
+Fortify Heavy Armor;Bliss Bug Thorax
+Fortify Heavy Armor;Bog Beacon
+Fortify Heavy Armor;Gnarl Bark
+Fortify Heavy Armor;Goldfish
+Fortify Heavy Armor;Ice Wraith Teeth
+Fortify Heavy Armor;Sabre Cat Tooth
+Fortify Heavy Armor;Slaughterfish Scales
+Fortify Heavy Armor;Thistle Branch
+Fortify Heavy Armor;White Cap
+Fortify Illusion;Bliss Bug Thorax
+Fortify Illusion;Dragon's Tongue
+Fortify Illusion;Dwarven Oil
+Fortify Illusion;Glassfish
+Fortify Illusion;Mora Tapinella
+Fortify Illusion;Scaly Pholiota
+Fortify Illusion;Taproot
+Fortify Illusion;Watcher's Eye
+Fortify Light Armor;Ash Hopper Jelly
+Fortify Light Armor;Aster Bloom Core
+Fortify Light Armor;Beehive Husk
+Fortify Light Armor;Felsaad Tern Feathers
+Fortify Light Armor;Hawk Feathers
+Fortify Light Armor;Honeycomb
+Fortify Light Armor;Luna Moth Wing
+Fortify Light Armor;Skeever Tail
+Fortify Light Armor;Withering Moon
+Fortify Lockpicking;Ashen Grass Pod
+Fortify Lockpicking;Falmer Ear
+Fortify Lockpicking;Namira's Rot
+Fortify Lockpicking;Pine Thrush Egg
+Fortify Lockpicking;Spadefish
+Fortify Lockpicking;Spider Egg
+Fortify Lockpicking;Worm's Head Cap
+Fortify Magicka;Blind Watcher's Eye
+Fortify Magicka;Blister Pod Cap
+Fortify Magicka;Briar Heart
+Fortify Magicka;Ectoplasm
+Fortify Magicka;Emperor Parasol Moss
+Fortify Magicka;Fine-Cut Void Salts
+Fortify Magicka;Histcarp
+Fortify Magicka;Hunger Tongue
+Fortify Magicka;Jazbay Grapes
+Fortify Magicka;Lichor
+Fortify Magicka;Red Kelp Gas Bladder
+Fortify Magicka;Red Mountain Flower
+Fortify Magicka;Salmon Roe
+Fortify Magicka;Saltrice
+Fortify Magicka;Stoneflower Petals
+Fortify Magicka;Tundra Cotton
+Fortify Magicka;Void Salts
+Fortify Magicka;Watcher's Eye
+Fortify Marksman;Angelfish
+Fortify Marksman;Canis Root
+Fortify Marksman;Corkbulb Root
+Fortify Marksman;Elves Ear
+Fortify Marksman;Juniper Berries
+Fortify Marksman;Spider Egg
+Fortify One-Handed;Bear Claws
+Fortify One-Handed;Canis Root
+Fortify One-Handed;Hanging Moss
+Fortify One-Handed;Hawk Feathers
+Fortify One-Handed;Heart of Order
+Fortify One-Handed;Pearlfish
+Fortify One-Handed;Rock Warbler Egg
+Fortify One-Handed;Small Pearl
+Fortify One-Handed;Stoneflower Petals
+Fortify Persuasion;Glassfish
+Fortify Pickpocket;Blue Dartwing
+Fortify Pickpocket;Kresh Fiber
+Fortify Pickpocket;Nordic Barnacle
+Fortify Pickpocket;Orange Dartwing
+Fortify Pickpocket;Slaughterfish Egg
+Fortify Pickpocket;Spadefish
+Fortify Restoration;Abecean Longfin
+Fortify Restoration;Cyrodilic Spadetail
+Fortify Restoration;Hackle-Lo Leaf
+Fortify Restoration;Healing Salts
+Fortify Restoration;Pygmy Sunfish
+Fortify Restoration;Salt Pile
+Fortify Restoration;Small Antlers
+Fortify Restoration;Small Pearl
+Fortify Restoration;Yellow Mountain Flower
+Fortify Smithing;Blisterwort
+Fortify Smithing;Dreugh Wax
+Fortify Smithing;Glowing Mushroom
+Fortify Smithing;Gold Kanet
+Fortify Smithing;Pearlfish
+Fortify Smithing;Sabre Cat Tooth
+Fortify Smithing;Spriggan Sap
+Fortify Sneak;Abecean Longfin
+Fortify Sneak;Ashen Grass Pod
+Fortify Sneak;Beehive Husk
+Fortify Sneak;Frost Mirriam
+Fortify Sneak;Hawk Feathers
+Fortify Sneak;Human Flesh
+Fortify Sneak;Kresh Fiber
+Fortify Sneak;Powdered Mammoth Tusk
+Fortify Sneak;Purple Mountain Flower
+Fortify Sneak;Roobrush
+Fortify Stamina;Boar Tusk
+Fortify Stamina;Chaurus Eggs
+Fortify Stamina;Fungus Stalk
+Fortify Stamina;Garlic
+Fortify Stamina;Large Antlers
+Fortify Stamina;Lavender
+Fortify Stamina;Scrib Jerky
+Fortify Stamina;Slaughterfish Egg
+Fortify Stamina;Torchbug Thorax
+Fortify Stamina;Void Essence
+Fortify Two-Handed;Angler Larvae
+Fortify Two-Handed;Dragon's Tongue
+Fortify Two-Handed;Emperor Parasol Moss
+Fortify Two-Handed;Fly Amanita
+Fortify Two-Handed;Heart of Order
+Fortify Two-Handed;Juvenile Mudcrab
+Fortify Two-Handed;Troll Fat
+Frenzy;Blisterwort
+Frenzy;Boar Tusk
+Frenzy;Corrupted Human Heart
+Frenzy;Dreugh Wax
+Frenzy;Falmer Ear
+Frenzy;Fly Amanita
+Frenzy;Hagraven Feathers
+Frenzy;Human Heart
+Frenzy;Hypha Facia
+Frenzy;Mort Flesh
+Frenzy;Simon Rodayne's Heart
+Frenzy;Troll Fat
+Frenzy;Wisp Stalk Caps
+Invisibility;Ash Creep Cluster
+Invisibility;Bittergreen Petals
+Invisibility;Blister Pod Cap
+Invisibility;Bloodgrass
+Invisibility;Chaurus Eggs
+Invisibility;Crimson Nirnroot
+Invisibility;Daedra Silk
+Invisibility;Elytra Ichor
+Invisibility;Flame Stalk
+Invisibility;Glassfish
+Invisibility;Green Butterfly Wing
+Invisibility;Ice Wraith Teeth
+Invisibility;Luna Moth Wing
+Invisibility;Nirnroot
+Invisibility;Redwort Flower
+Invisibility;Screaming Maw
+Invisibility;Vampire Dust
+Light;Alocasia Fruit
+Light;Blind Watcher's Eye
+Light;Daedroth Teeth
+Light;Hydnum Azure Giant Spore
+Lingering Damage Health;Angler Larvae
+Lingering Damage Health;Chokeberry
+Lingering Damage Health;Imp Stool
+Lingering Damage Health;Luminous Russula
+Lingering Damage Health;Mora Tapinella
+Lingering Damage Health;Orange Dartwing
+Lingering Damage Health;Roobrush
+Lingering Damage Health;Rot Scale
+Lingering Damage Health;Scathecraw
+Lingering Damage Health;Slaughterfish Egg
+Lingering Damage Health;Slaughterfish Scales
+Lingering Damage Health;Thorn Hook
+Lingering Damage Magicka;Hagraven Claw
+Lingering Damage Magicka;Ogre's Teeth
+Lingering Damage Magicka;Purple Mountain Flower
+Lingering Damage Magicka;Pygmy Sunfish
+Lingering Damage Magicka;Scalon Fin
+Lingering Damage Magicka;Swamp Fungal Pod
+Lingering Damage Magicka;Torchbug Thorax
+Lingering Damage Magicka;Wheat
+Lingering Damage Stamina;Bittergreen Petals
+Lingering Damage Stamina;Butterfly Wing
+Lingering Damage Stamina;Chicken's Egg
+Lingering Damage Stamina;Coda Flower
+Lingering Damage Stamina;Daedra Silk
+Lingering Damage Stamina;Hawk's Egg
+Lingering Damage Stamina;Kagouti Hide
+Lingering Damage Stamina;Luminous Russula
+Lingering Damage Stamina;Nightshade
+Lingering Damage Stamina;Small Antlers
+Night Eye;Blister Pod Cap
+Night Eye;Daedra Silk
+Night Eye;Kagouti Hide
+Night Eye;Watcher's Eye
+Night Eye;Worm's Head Cap
+Paralysis;Aster Bloom Core
+Paralysis;Briar Heart
+Paralysis;Canis Root
+Paralysis;Corkbulb Root
+Paralysis;Daedra Silk
+Paralysis;Daedra Venin
+Paralysis;Fire Petal
+Paralysis;Gleamblossom
+Paralysis;Gold Kanet
+Paralysis;Hackle-Lo Leaf
+Paralysis;Harrada
+Paralysis;Human Flesh
+Paralysis;Imp Stool
+Paralysis;Netch Jelly
+Paralysis;Purple Butterfly Wing
+Paralysis;Rot Scale
+Paralysis;Scrib Jerky
+Paralysis;Swamp Fungal Pod
+Paralysis;Thorn Hook
+Ravage Health;Chokeberry
+Ravage Health;Congealed Putrescence
+Ravage Health;Cyrodilic Spadetail
+Ravage Health;Daedra Venin
+Ravage Health;Eye of Sabre Cat
+Ravage Health;Giant Lichen
+Ravage Health;Gold Kanet
+Ravage Health;Jazbay Grapes
+Ravage Health;Scathecraw
+Ravage Health;Silverside Perch
+Ravage Health;Skeever Tail
+Ravage Magicka;Alocasia Fruit
+Ravage Magicka;Coda Flower
+Ravage Magicka;Frost Mirriam
+Ravage Magicka;Grass Pod
+Ravage Magicka;Lavender
+Ravage Magicka;Orange Dartwing
+Ravage Magicka;Red Mountain Flower
+Ravage Magicka;Scathecraw
+Ravage Magicka;Spawn Ash
+Ravage Magicka;White Cap
+Ravage Magicka;Wild Grass Pod
+Ravage Stamina;Bee
+Ravage Stamina;Berit's Ashes
+Ravage Stamina;Bone Meal
+Ravage Stamina;Bungler's Bane
+Ravage Stamina;Deathbell
+Ravage Stamina;Honeycomb
+Ravage Stamina;Hypha Facia
+Ravage Stamina;Scathecraw
+Ravage Stamina;Spawn Ash
+Ravage Stamina;Thistle Branch
+Regenerate Health;Alocasia Fruit
+Regenerate Health;Ambrosia
+Regenerate Health;Angelfish
+Regenerate Health;Emperor Parasol Moss
+Regenerate Health;Garlic
+Regenerate Health;Gleamblossom
+Regenerate Health;Gnarl Bark
+Regenerate Health;Hydnum Azure Giant Spore
+Regenerate Health;Juniper Berries
+Regenerate Health;Luna Moth Wing
+Regenerate Health;Minotaur Horn
+Regenerate Health;Namira's Rot
+Regenerate Health;Nordic Barnacle
+Regenerate Health;Ogre's Teeth
+Regenerate Health;Purple Butterfly Wing
+Regenerate Health;Screaming Maw
+Regenerate Health;Thorn Hook
+Regenerate Health;Vampire Dust
+Regenerate Health;Void Essence
+Regenerate Magicka;Dwarven Oil
+Regenerate Magicka;Fire Salts
+Regenerate Magicka;Garlic
+Regenerate Magicka;Healing Salts
+Regenerate Magicka;Jazbay Grapes
+Regenerate Magicka;Lichor
+Regenerate Magicka;Minotaur Horn
+Regenerate Magicka;Moon Sugar
+Regenerate Magicka;Purple Butterfly Wing
+Regenerate Magicka;Salmon Roe
+Regenerate Magicka;Salt Pile
+Regenerate Magicka;Screaming Maw
+Regenerate Magicka;Scrib Jelly
+Regenerate Magicka;Taproot
+Regenerate Magicka;Thorn Hook
+Regenerate Stamina;Alocasia Fruit
+Regenerate Stamina;Angler Larvae
+Regenerate Stamina;Bee
+Regenerate Stamina;Daedroth Teeth
+Regenerate Stamina;Fly Amanita
+Regenerate Stamina;Juvenile Mudcrab
+Regenerate Stamina;Mora Tapinella
+Regenerate Stamina;Purple Butterfly Wing
+Regenerate Stamina;Red Kelp Gas Bladder
+Regenerate Stamina;Scaly Pholiota
+Regenerate Stamina;Scrib Jelly
+Regenerate Stamina;Wisp Stalk Caps
+Resist Fire;Angelfish
+Resist Fire;Ash Creep Cluster
+Resist Fire;Ashen Grass Pod
+Resist Fire;Berit's Ashes
+Resist Fire;Bliss Bug Thorax
+Resist Fire;Bone Meal
+Resist Fire;Dragon's Tongue
+Resist Fire;Elves Ear
+Resist Fire;Fire Petal
+Resist Fire;Fire Salts
+Resist Fire;Fly Amanita
+Resist Fire;Gnarl Bark
+Resist Fire;Ironwood Fruit
+Resist Fire;Mudcrab Chitin
+Resist Fire;Sload Soap
+Resist Fire;Snowberries
+Resist Fire;Spawn Ash
+Resist Frost;Daedroth Teeth
+Resist Frost;Flame Stalk
+Resist Frost;Frost Mirriam
+Resist Frost;Frost Salts
+Resist Frost;Goldfish
+Resist Frost;Hawk Beak
+Resist Frost;Hydnum Azure Giant Spore
+Resist Frost;Moon Sugar
+Resist Frost;Pearlfish
+Resist Frost;Purple Mountain Flower
+Resist Frost;Redwort Flower
+Resist Frost;Silverside Perch
+Resist Frost;Slaughterfish Scales
+Resist Frost;Small Pearl
+Resist Frost;Snowberries
+Resist Frost;Steel-Blue Entoloma
+Resist Frost;Thistle Branch
+Resist Magic;Aster Bloom Core
+Resist Magic;Bleeding Crown
+Resist Magic;Bungler's Bane
+Resist Magic;Chicken's Egg
+Resist Magic;Crimson Nirnroot
+Resist Magic;Felsaad Tern Feathers
+Resist Magic;Fine-Cut Void Salts
+Resist Magic;Gleamblossom
+Resist Magic;Hagraven Claw
+Resist Magic;Hawk's Egg
+Resist Magic;Hypha Facia
+Resist Magic;Lavender
+Resist Magic;Nirnroot
+Resist Magic;Tundra Cotton
+Resist Magic;Void Salts
+Resist Magic;Wisp Wrappings
+Resist Poison;Beehive Husk
+Resist Poison;Bloodgrass
+Resist Poison;Charred Skeever Hide
+Resist Poison;Falmer Ear
+Resist Poison;Garlic
+Resist Poison;Grass Pod
+Resist Poison;Minotaur Horn
+Resist Poison;Mudcrab Chitin
+Resist Poison;Ogre's Teeth
+Resist Poison;Slaughterfish Egg
+Resist Poison;Thistle Branch
+Resist Poison;Troll Fat
+Resist Poison;Wild Grass Pod
+Resist Poison;Yellow Mountain Flower
+Resist Shock;Ash Hopper Jelly
+Resist Shock;Blue Dartwing
+Resist Shock;Corkbulb Root
+Resist Shock;Glow Dust
+Resist Shock;Glowing Mushroom
+Resist Shock;Hawk Beak
+Resist Shock;Kagouti Hide
+Resist Shock;Pearl
+Resist Shock;Pine Thrush Egg
+Resist Shock;Snowberries
+Resist Shock;Swamp Fungal Pod
+Restore Health;Ambrosia
+Restore Health;Ash Hopper Jelly
+Restore Health;Blisterwort
+Restore Health;Blue Dartwing
+Restore Health;Blue Mountain Flower
+Restore Health;Butterfly Wing
+Restore Health;Charred Skeever Hide
+Restore Health;Corkbulb Root
+Restore Health;Daedra Heart
+Restore Health;Eye of Sabre Cat
+Restore Health;Felsaad Tern Feathers
+Restore Health;Flame Stalk
+Restore Health;Heart of Order
+Restore Health;Imp Stool
+Restore Health;Ironwood Fruit
+Restore Health;Marshmerrow
+Restore Health;Rock Warbler Egg
+Restore Health;Saltrice
+Restore Health;Spadefish
+Restore Health;Swamp Fungal Pod
+Restore Health;Void Essence
+Restore Health;Wheat
+Restore Magicka;Blister Pod Cap
+Restore Magicka;Bog Beacon
+Restore Magicka;Briar Heart
+Restore Magicka;Comberry
+Restore Magicka;Congealed Putrescence
+Restore Magicka;Creep Cluster
+Restore Magicka;Dwarven Oil
+Restore Magicka;Ectoplasm
+Restore Magicka;Elves Ear
+Restore Magicka;Elytra Ichor
+Restore Magicka;Fire Salts
+Restore Magicka;Frost Salts
+Restore Magicka;Fungus Stalk
+Restore Magicka;Giant Lichen
+Restore Magicka;Glassfish
+Restore Magicka;Grass Pod
+Restore Magicka;Green Butterfly Wing
+Restore Magicka;Human Flesh
+Restore Magicka;Ironwood Fruit
+Restore Magicka;Lichor
+Restore Magicka;Lyretail Anthias
+Restore Magicka;Moon Sugar
+Restore Magicka;Mora Tapinella
+Restore Magicka;Pearl
+Restore Magicka;Red Mountain Flower
+Restore Magicka;Steel-Blue Entoloma
+Restore Magicka;Taproot
+Restore Magicka;Vampire Dust
+Restore Magicka;White Cap
+Restore Magicka;Wild Grass Pod
+Restore Magicka;Withering Moon
+Restore Stamina;Bear Claws
+Restore Stamina;Bee
+Restore Stamina;Charred Skeever Hide
+Restore Stamina;Chokeweed
+Restore Stamina;Eye of Sabre Cat
+Restore Stamina;Goldfish
+Restore Stamina;Hackle-Lo Leaf
+Restore Stamina;Hawk Beak
+Restore Stamina;Histcarp
+Restore Stamina;Honeycomb
+Restore Stamina;Large Antlers
+Restore Stamina;Mudcrab Chitin
+Restore Stamina;Netch Jelly
+Restore Stamina;Orange Dartwing
+Restore Stamina;Pearl
+Restore Stamina;Pearlfish
+Restore Stamina;Pine Thrush Egg
+Restore Stamina;Powdered Mammoth Tusk
+Restore Stamina;Purple Mountain Flower
+Restore Stamina;Pygmy Sunfish
+Restore Stamina;Sabre Cat Tooth
+Restore Stamina;Salmon Roe
+Restore Stamina;Saltrice
+Restore Stamina;Scrib Jerky
+Restore Stamina;Silverside Perch
+Restore Stamina;Small Pearl
+Restore Stamina;Spiddal Stick
+Restore Stamina;Torchbug Thorax
+Restore Stamina;Wisp Wrappings
+Slow;Bloodgrass
+Slow;Bungler's Bane
+Slow;Burnt Spriggan Wood
+Slow;Deathbell
+Slow;Elytra Ichor
+Slow;Green Butterfly Wing
+Slow;Healing Salts
+Slow;Kresh Fiber
+Slow;Large Antlers
+Slow;Poison Bloom
+Slow;River Betty
+Slow;Rot Scale
+Slow;Salt Pile
+Slow;Trama Root
+Slow;Worm's Head Cap
+Spell Absorption;Blind Watcher's Eye
+Spell Absorption;Comberry
+Spell Absorption;Daedra Venin
+Spell Absorption;Fire Petal
+Spell Absorption;Lichor
+Spell Absorption;Watcher's Eye
+Spell Absorption;Withering Moon
+Waterbreathing;Angelfish
+Waterbreathing;Angler Larvae
+Waterbreathing;Chicken's Egg
+Waterbreathing;Fish
+Waterbreathing;Fungus Stalk
+Waterbreathing;Goldfish
+Waterbreathing;Hackle-Lo Leaf
+Waterbreathing;Hawk's Egg
+Waterbreathing;Histcarp
+Waterbreathing;Luminous Russula
+Waterbreathing;Nordic Barnacle
+Waterbreathing;Red Kelp Gas Bladder
+Waterbreathing;Salmon Roe
+Waterbreathing;Scalon Fin
+Waterbreathing;Scrib Jerky
+Weakness to Fire;Bleeding Crown
+Weakness to Fire;Bliss Bug Thorax
+Weakness to Fire;Burnt Spriggan Wood
+Weakness to Fire;Congealed Putrescence
+Weakness to Fire;Flame Stalk
+Weakness to Fire;Frost Salts
+Weakness to Fire;Hunger Tongue
+Weakness to Fire;Ice Wraith Teeth
+Weakness to Fire;Imp Gall
+Weakness to Fire;Juniper Berries
+Weakness to Fire;Moon Sugar
+Weakness to Fire;Powdered Mammoth Tusk
+Weakness to Fire;Spiddal Stick
+Weakness to Frost;Abecean Longfin
+Weakness to Frost;Ash Hopper Jelly
+Weakness to Frost;Chokeweed
+Weakness to Frost;Elves Ear
+Weakness to Frost;Fire Salts
+Weakness to Frost;Gold Kanet
+Weakness to Frost;Ice Wraith Teeth
+Weakness to Frost;White Cap
+Weakness to Magic;Creep Cluster
+Weakness to Magic;Dreugh Wax
+Weakness to Magic;Dwarven Oil
+Weakness to Magic;Healing Salts
+Weakness to Magic;Jazbay Grapes
+Weakness to Magic;Kresh Fiber
+Weakness to Magic;Marshmerrow
+Weakness to Magic;Rock Warbler Egg
+Weakness to Magic;Roobrush
+Weakness to Magic;Salt Pile
+Weakness to Magic;Scaly Pholiota
+Weakness to Magic;Taproot
+Weakness to Magic;Torchbug Thorax
+Weakness to Poison;Abecean Longfin
+Weakness to Poison;Bleeding Crown
+Weakness to Poison;Chaurus Eggs
+Weakness to Poison;Chokeberry
+Weakness to Poison;Deathbell
+Weakness to Poison;Giant Lichen
+Weakness to Poison;Hypha Facia
+Weakness to Poison;Pine Thrush Egg
+Weakness to Poison;Sabre Cat Tooth
+Weakness to Poison;Small Antlers
+Weakness to Poison;Wisp Stalk Caps
+Weakness to Shock;Ashen Grass Pod
+Weakness to Shock;Bee
+Weakness to Shock;Fine-Cut Void Salts
+Weakness to Shock;Giant Lichen
+Weakness to Shock;Hagraven Feathers
+Weakness to Shock;Ogre's Teeth
+Weakness to Shock;Stoneflower Petals
+Weakness to Shock;Trama Root
+Weakness to Shock;Void Salts
