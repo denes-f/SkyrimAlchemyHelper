@@ -94,13 +94,16 @@ class Union(BaseStep):
 
 class DfToSQLite(BaseStep):
 
-    def __init__(self, db_name, table_name):
+    def __init__(self, db_name, table_name, normalize_columns=True):
         super().__init__()
         self.db_name = db_name
         self.table_name = table_name
+        self.normalize_columns = normalize_columns
 
     def run(self):
         conn = sqlite3.connect(self.db_name)
+        if self.normalize_columns:
+            self.result = self.result.rename(columns=lambda col: col.lower().replace(' ', '_'))
         self.result.to_sql(self.table_name, conn, if_exists='replace', index=False)
         conn.close()
         return self.result
