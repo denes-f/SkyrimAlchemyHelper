@@ -25,18 +25,17 @@ def main():
 
 class DBHandler:
     def __init__(self):
-        self._table_name = "ingredients"
         self._db_connection = sqlite3.connect("skyrim_aclhemy.db")
         self._db_cursor = self._db_connection.cursor()
 
     def get_effect(self, ingredient_name, effect_order):
-        res = self._db_cursor.execute(f"SELECT * FROM {self._table_name} WHERE LOWER(Ingredient) IS '{ingredient_name.lower()}'")
+        res = self._db_cursor.execute('SELECT * FROM ingredients WHERE LOWER(Ingredient) IS ?', (ingredient_name.lower(),))
         effects = res.fetchone()
         effect = None if effects is None else effects[effect_order]
         return effect
 
     def get_ingredients(self, effect_name):
-        res = self._db_cursor.execute(f'SELECT Ingredient from {self._table_name} WHERE "{effect_name}" IN ("Primary Effect", "Secondary Effect", "Tertiary Effect", "Quaternary Effect")')
+        res = self._db_cursor.execute('SELECT Ingredient FROM ingredients WHERE ? IN ("Primary Effect", "Secondary Effect", "Tertiary Effect", "Quaternary Effect")', (effect_name,))
         ingredients = [row[0] for row in res.fetchall()]
         ingredients.sort()
         return ingredients
