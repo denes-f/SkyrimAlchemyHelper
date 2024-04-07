@@ -11,7 +11,7 @@ class CreateDBPipeline(BasePipeline):
         ParseTable(),
         UpdateDfWithKey(),
         Union(),
-        DfToSQLite('skyrim_aclhemy.db', 'ingredients')
+        DfToSQLite('skyrim_alchemy.db', 'ingredients')
     ]
 
 

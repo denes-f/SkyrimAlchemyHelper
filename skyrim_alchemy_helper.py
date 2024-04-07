@@ -25,7 +25,7 @@ def main():
 
 class DBHandler:
     def __init__(self):
-        self._db_connection = sqlite3.connect("skyrim_aclhemy.db")
+        self._db_connection = sqlite3.connect("skyrim_alchemy.db")
         self._db_cursor = self._db_connection.cursor()
 
     def get_effect(self, ingredient_name, effect_order):
@@ -35,7 +35,7 @@ class DBHandler:
         return effect
 
     def get_ingredients(self, effect_name):
-        res = self._db_cursor.execute('SELECT Ingredient FROM ingredients WHERE ? IN ("Primary Effect", "Secondary Effect", "Tertiary Effect", "Quaternary Effect")', (effect_name,))
+        res = self._db_cursor.execute('SELECT ingredient FROM ingredients WHERE ? IN ("primary_effect", "secondary_Effect", "tertiary_effect", "quaternary_effect")', (effect_name,))
         ingredients = [row[0] for row in res.fetchall()]
         ingredients.sort()
         return ingredients
