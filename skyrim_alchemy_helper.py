@@ -18,6 +18,9 @@ def main():
         else:
             try:
                 query_effect_order = [int(query_split[1])]
+                if query_effect_order[0] not in [1, 2, 3, 4]:
+                    print(f"Invalid Effect Order '{query_effect_order[0]}'\n")
+                    continue
             except ValueError:
                 print(f"Invalid Effect Order '{query_split[1]}'. "
                       f"The Effect Order should be a number or 'a' for displaying all effects\n")
